@@ -13,7 +13,7 @@ Projeto em PHP que consome a API [RestCountries](https://restcountries.com/ "Sit
 #### Retorna todos os países
 
 ```http
-  GET https://restcountries.com/v3.1/all
+  GET restcountries.com/v3.1/{all}
 ```
 
 | Parâmetro   | Tipo       | Descrição                           |
@@ -23,7 +23,7 @@ Projeto em PHP que consome a API [RestCountries](https://restcountries.com/ "Sit
 #### Retorna um país
 
 ```http
-  GET https://restcountries.com/v3.1/name/{name}
+  GET restcountries.com/v3.1/name/{name}
 ```
 
 | Parâmetro   | Tipo       | Descrição                                   |
