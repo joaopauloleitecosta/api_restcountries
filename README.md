@@ -1,4 +1,5 @@
-#API RestCountries
+# API RestCountries
+API que retorna informações sobre os países.
 
 # Sobre o projeto
 Projeto em PHP que consome a API [RestCountries](https://restcountries.com/ "Site da API Restcountries").
